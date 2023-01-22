@@ -23,7 +23,7 @@ To get started with this project, you will need to have the following installed 
 
 To build and run the project, follow these steps:
 
-* in development...
+* in development....
 
 
 -> The application will be available at http://localhost:8080.
